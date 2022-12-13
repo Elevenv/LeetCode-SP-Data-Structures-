@@ -20,6 +20,7 @@ else:
 
 # OR
 
+
 # s = set(nums)
 # if len(s)==len(nums):
 #     print(False)
