@@ -18,9 +18,10 @@ for i in range(len(nums)):
 else:
     print(False)
 
+# OR
 
-s = set(nums)
-if len(s)==len(nums):
-    print(False)
-else:
-    print(True)
+# s = set(nums)
+# if len(s)==len(nums):
+#     print(False)
+# else:
+#     print(True)
